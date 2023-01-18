@@ -4,7 +4,7 @@ Denoising Diffusion Probabilistic Models (DDPM) have been used extensively with 
 
 We recommend using headphones for this section.
 
-|            | 196-122150-0000                                                                          | p361_002                                                                           |
+|            | 196-122150-0000                                                                          | 196-122150-0001                                                                        |
 |------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |            | ![](new/target/196-122150-0000.png)                                                  | ![](new/lstm/196-122150-0000.png)                                                  |
 | Input      | <audio src="new/target/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/lstm/196-122150-0000.wav" controls="" preload=""></audio>          |
