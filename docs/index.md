@@ -2,25 +2,20 @@ Denoising Diffusion Probabilistic Models (DDPM) have been used extensively with 
 
 ## Listening samples for evaluation
 
-### Samples: U-NET base line
-
 We recommend using headphones for this section.
 
-|            | p360_001                                                                           | p361_002                                                                           |
+|            | 196-122150-0000                                                                          | p361_002                                                                           |
 |------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |            | ![](new/target/196-122150-0000.png)                                                  | ![](new/lstm/196-122150-0000.png)                                                  |
-| Input      | <audio src="new/target/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="sew/lstm/196-122150-0000.wav" controls="" preload=""></audio>          |
-|            | ![](samples/origin/p360_001_mic1.png)                                              | ![](samples/origin/p361_002_mic1.png)                                              |
-| Target     | <audio src="samples/origin/p360_001_mic1.wav" controls="" preload=""></audio>      | <audio src="samples/origin/p361_002_mic1.wav" controls="" preload=""></audio>      |
-|            | ![](samples/x2-nuwave/p360_001_mic1.png)                                           | ![](samples/x2-nuwave/p361_002_mic1.png)                                           |
-| NU-Wave    | <audio src="samples/x2-nuwave/p360_001_mic1.wav" controls="" preload=""></audio>   | <audio src="samples/x2-nuwave/p361_002_mic1.wav" controls="" preload=""></audio>   |
-|            | ![](samples/x2-nuwave+/p360_001_mic1.png)                                          | ![](samples/x2-nuwave+/p361_002_mic1.png)                                          |
-| NU-Wave+   | <audio src="samples/x2-nuwave+/p360_001_mic1.wav" controls="" preload=""></audio>  | <audio src="samples/x2-nuwave+/p361_002_mic1.wav" controls="" preload=""></audio>  |
-|            | ![](samples/x2-nuwave2/p360_001_mic1.png)                                          | ![](samples/x2-nuwave2/p361_002_mic1.png)                                          |
-| NU-Wave 2  | <audio src="samples/x2-nuwave2/p360_001_mic1.wav" controls="" preload=""></audio>  | <audio src="samples/x2-nuwave2/p361_002_mic1.wav" controls="" preload=""></audio>  |
-|            | ![](samples/x2-nuwave2+/p360_001_mic1.png)                                         | ![](samples/x2-nuwave2+/p361_002_mic1.png)                                         |
-| NU-Wave 2+ | <audio src="samples/x2-nuwave2+/p360_001_mic1.wav" controls="" preload=""></audio> | <audio src="samples/x2-nuwave2+/p361_002_mic1.wav" controls="" preload=""></audio> |
-|            | ![](samples/x2-wsrglow/p360_001_mic1.png)                                          | ![](samples/x2-wsrglow/p361_002_mic1.png)                                          |
-| WSRGlow    | <audio src="samples/x2-wsrglow/p360_001_mic1.wav" controls="" preload=""></audio>  | <audio src="samples/x2-wsrglow/p361_002_mic1.wav" controls="" preload=""></audio>  |
-|            | ![](samples/x2-mcg/p360_001_mic1.png)                                              | ![](samples/x2-mcg/p361_002_mic1.png)                                              |
-| UDM+       | <audio src="samples/x2-mcg/p360_001_mic1.wav" controls="" preload=""></audio>      | <audio src="samples/x2-mcg/p361_002_mic1.wav" controls="" preload=""></audio>      |
+| Input      | <audio src="new/target/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/lstm/196-122150-0000.wav" controls="" preload=""></audio>          |
+|            | ![](new/target/196-122150-0000.png)                                                  | ![](new/target/196-122150-0001.png)                                                  |
+| Target      | <audio src="new/target/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/target/196-122150-0001.wav" controls="" preload=""></audio>          |
+|            | ![](new/lstm/196-122150-0000.png)                                              | ![](new/lstm/196-122150-0001.png)                                              |
+| LSTM    | <audio src="new/lstm/196-122150-0000.wav" controls="" preload=""></audio>      | <audio src="new/lstm/196-122150-0001.wav" controls="" preload=""></audio>      |
+|            | ![](new/u-net/196-122150-0000.png)                                           | ![](new/u-net/196-122150-0001.png)                                           |
+| U-Net  | <audio src="u-net/196-122150-0000.wav" controls="" preload=""></audio>   | <audio src="new/u-net/196-122150-0001.wav" controls="" preload=""></audio>   |
+|            | ![](new/nuwave2/196-122150-0000.png)                                                  | ![](new/nuwave2/196-122150-0001.png)                                                  |
+| NU-wave2      | <audio src="new/nuwave2/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/nuwave2/196-122150-0001.wav" controls="" preload=""></audio>          |
+|            | ![](new/repaint/196-122150-0000.png)                                          | ![](new/repaint/196-122150-0001.png)                                          |
+| Repaint   | <audio src="new/repaint/196-122150-0000.wav" controls="" preload=""></audio>  | <audio src="new/repaint/196-122150-0001.wav" controls="" preload=""></audio>  |
+
