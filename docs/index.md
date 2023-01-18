@@ -13,7 +13,7 @@ We recommend using headphones for this section.
 |            | ![](new/lstm/196-122150-0000.png)                                              | ![](new/lstm/196-122150-0001.png)                                              |
 | LSTM    | <audio src="new/lstm/196-122150-0000.wav" controls="" preload=""></audio>      | <audio src="new/lstm/196-122150-0001.wav" controls="" preload=""></audio>      |
 |            | ![](new/u-net/196-122150-0000.png)                                           | ![](new/u-net/196-122150-0001.png)                                           |
-| U-Net  | <audio src="u-net/196-122150-0000.wav" controls="" preload=""></audio>   | <audio src="new/u-net/196-122150-0001.wav" controls="" preload=""></audio>   |
+| U-Net  | <audio src="new/u-net/196-122150-0000.wav" controls="" preload=""></audio>   | <audio src="new/u-net/196-122150-0001.wav" controls="" preload=""></audio>   |
 |            | ![](new/nuwave2/196-122150-0000.png)                                                  | ![](new/nuwave2/196-122150-0001.png)                                                  |
 | NU-wave2      | <audio src="new/nuwave2/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/nuwave2/196-122150-0001.wav" controls="" preload=""></audio>          |
 |            | ![](new/repaint/196-122150-0000.png)                                          | ![](new/repaint/196-122150-0001.png)                                          |
