@@ -8,24 +8,20 @@ We recommend using headphones for this section.
 |------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |            | ![](new/input/196-122150-0000.png)                                                  | ![](new/input/196-122150-0001.png)                                                  |
 | Input      | <audio src="new/input/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/input/196-122150-0001.wav" controls="" preload=""></audio>          |
-
-
 |            | ![](new/target/196-122150-0000.png)                                                  | ![](new/target/196-122150-0001.png)                                                  |
 | Target      | <audio src="new/target/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/target/196-122150-0001.wav" controls="" preload=""></audio>          |
-
-
 |            | ![](new/lstm/196-122150-0000.png)                                              | ![](new/lstm/196-122150-0001.png)                                              |
 | LSTM    | <audio src="new/lstm/196-122150-0000.wav" controls="" preload=""></audio>      | <audio src="new/lstm/196-122150-0001.wav" controls="" preload=""></audio>      |
-
-
 |            | ![](new/u-net/196-122150-0000.png)                                           | ![](new/u-net/196-122150-0001.png)                                           |
 | U-Net  | <audio src="new/u-net/196-122150-0000.wav" controls="" preload=""></audio>   | <audio src="new/u-net/196-122150-0001.wav" controls="" preload=""></audio>   |
-
-
 |            | ![](new/nuwave2/196-122150-0000.png)                                                  | ![](new/nuwave2/196-122150-0001.png)                                                  |
 | NU-wave2      | <audio src="new/nuwave2/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/nuwave2/196-122150-0001.wav" controls="" preload=""></audio>          |
-
-
 |            | ![](new/repaint/196-122150-0000.png)                                          | ![](new/repaint/196-122150-0001.png)                                          |
-| Repaint   | <audio src="new/repaint/196-122150-0000.wav" controls="" preload=""></audio>  | <audio src="new/repaint/196-122150-0001.wav" controls="" preload=""></audio>  |
+| Repaint (Our model)  | <audio src="new/repaint/196-122150-0000.wav" controls="" preload=""></audio>  | <audio src="new/repaint/196-122150-0001.wav" controls="" preload=""></audio>  |
 
+
+
+Uncoditional diffusion produced plausible sounds from random noise
+
+|            | ![](new/Uncoditional diffusion/image 1.png)                                                  | ![](new/Uncoditional diffusion/image 2.png)                                                  |
+| Unconditional diffusion      | <audio src="new/Uncoditional diffusion/randwave_1.wav" controls="" preload=""></audio>          | <audio src="new/Uncoditional diffusion/randwave_2.wav" controls="" preload=""></audio>          |
