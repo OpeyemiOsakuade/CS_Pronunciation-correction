@@ -23,5 +23,5 @@ We recommend using headphones for this section.
 
 Unconditional diffusion produced plausible sounds from random noise
 
-|            | ![](new/Unconditional diffusion/image 1.png)                                                  | ![](new/Uncoditional diffusion/image 2.png)                                                  |
+|            | ![](new/Unconditional diffusion/image 1.png)                                                  | ![](new/Unconditional diffusion/image 2.png)                                                  |
 | Unconditional diffusion      | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>          | <audio src="new/Unconditional diffusion/randwave_2.wav" controls="" preload=""></audio>          |
