@@ -40,7 +40,7 @@ What is the performance of Yorùbá speech codes and graphemes?
 |ìjọba tuntun {ti kristi} | <audio src="new/YgYsc/ìjọba_tuntun_<ti_kristi>.wav" controls="" preload=""></audio>|<audio src=" " controls="" preload=""></audio>|
 |ìjọba tuntun ti kristi |<audio src="new/YgYsc/ìjọba_tuntun_ti_kristi.wav" controls="" preload=""></audio>|<audio src="new/transformer_YgYsc/ìjọba_tuntun_ti_kristi.wav" controls="" preload=""></audio>|
 |àlàáfíà fún ẹ̀yin {ènìyàn} |<audio src="new/YgYsc/àlàáfíà_fún_ẹ̀yin_<ènìyàn>.wav" controls="" preload=""></audio>|<audio src=" " controls="" preload=""></audio>|
-|àlàáfíà fún ẹ̀yin ènìyàn | <audio src=new/YgYsc/àlàáfíà_fún_ẹ̀yin_ènìyàn.wav" controls="" preload=""></audio>|<audio src="new/transformer_YgYsc/àlàáfíà_fún_ẹ̀yin_ènìyàn.wav" controls="" preload=""></audio>|
+|àlàáfíà fún ẹ̀yin ènìyàn |<audio src="new/YgYsc/àlàáfíà_fún_ẹ̀yin_ènìyàn.wav" controls="" preload=""></audio>|<audio src="new/transformer_YgYsc/àlàáfíà_fún_ẹ̀yin_ènìyàn.wav" controls="" preload=""></audio>|
 
 
 
@@ -49,9 +49,9 @@ What is the performance of Yorùbá speech codes with English graphemes?
 
 |    Code-switched text              |English SAC using Yorùbá speech codes                                                   |Transformer TTS|
 |my {ọ̀gá} is female|<audio src="new/EgYsc/my_<ọ̀gá>_is_female.wav" controls="" preload=""></audio>|<audio src=" " controls="" preload=""></audio>|
-|my ọ̀gá is female|<audio src="new/EgYsc/my_ọ̀gá_is_female.wav" controls="" preload=""></audio>|<audio src="/new/transformer_EgYsc/my_ọ̀gá_is_female.wav" controls="" preload=""></audio>|
+|my ọ̀gá is female|<audio src="new/EgYsc/my_ọ̀gá_is_female.wav" controls="" preload=""></audio>|<audio src="new/transformer_EgYsc/my_ọ̀gá_is_female.wav" controls="" preload=""></audio>|
 |Pronounce it {pẹ̀lú} patience|<audio src="new/EgYsc/Pronounce_it_<pẹ̀lú>_patience.wav" controls="" preload=""></audio>|<audio src=" " controls="" preload=""></audio>|
-|Pronounce it pẹ̀lú patience|<audio src="new/EgYsc/Pronounce it_pẹ̀lú_patience.wav" controls="" preload=""></audio>|<audio src="new/transformer_EgYsc/Pronounce_it_pẹ̀lú_patience.wav" controls="" preload=""></audio>|
+|Pronounce it pẹ̀lú patience|<audio src="new/EgYsc/Pronounce_it_pẹ̀lú_patience.wav" controls="" preload=""></audio>|<audio src="new/transformer_EgYsc/Pronounce_it_pẹ̀lú_patience.wav" controls="" preload=""></audio>|
 
 
 
