@@ -2,7 +2,7 @@ Denoising Diffusion Probabilistic Models (DDPM) have been used extensively with 
 
 ## Listening samples for evaluation
 
-We recommend using headphones for this section.
+<!-- We recommend using headphones for this section. -->
 
 |            | 196-122150-0000                                                                          | 196-122150-0001                                                                        |
 |------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -25,3 +25,28 @@ Unconditional diffusion produced plausible sounds from random noise
 
 |            | ![](new/Unconditional diffusion/image 1.png)                                                  | ![](new/Unconditional diffusion/image 2.png)                                                  |
 | Unconditional diffusion      | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>          | <audio src="new/Unconditional diffusion/randwave_2.wav" controls="" preload=""></audio>          |
+
+
+|    Code-switched text              |English SAC using Yorùbá speech codes                                                   |Transformer TTS|
+|my <ọ̀gá> is female|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|my ọ̀gá is female|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|Pronounce it <pẹ̀lú> patience|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|Pronounce it pẹ̀lú patience|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+
+|    Code-switched text              |Yorùbá SAC using English speech codes                                                   |Transformer TTS|
+|my <ọ̀gá> is female|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|my ọ̀gá is female|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|Pronounce it <pẹ̀lú> patience|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|Pronounce it pẹ̀lú patience|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+
+|    English text              |English SAC using english speech codes                                                  |Transformer TTS|
+|He mentioned several <countries> | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|He mentioned several countries |<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|The car is movable|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|The car is <movable> | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+
+|    Yorùbá text              |Yorùbá SAC using english speech codes                                                  |Transformer TTS|
+|He mentioned several <countries> | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|He mentioned several countries |<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|The car is movable|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
+|The car is <movable> | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|<audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>|
