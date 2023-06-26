@@ -4,7 +4,7 @@
 
 <!-- We recommend using headphones for this section. -->
 
-|            | 196-122150-0000                                                                          | 196-122150-0001                                                                        |
+<!-- |            | 196-122150-0000                                                                          | 196-122150-0001                                                                        |
 |------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |            | ![](new/input/196-122150-0000.png)                                                  | ![](new/input/196-122150-0001.png)                                                  |
 | Input      | <audio src="new/input/196-122150-0000.wav" controls="" preload=""></audio>          | <audio src="new/input/196-122150-0001.wav" controls="" preload=""></audio>          |
@@ -24,13 +24,13 @@
 Unconditional diffusion produced plausible sounds from random noise
 
 |            | ![](new/Unconditional diffusion/image 1.png)                                                  | ![](new/Unconditional diffusion/image 2.png)                                                  |
-| Unconditional diffusion      | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>          | <audio src="new/Unconditional diffusion/randwave_2.wav" controls="" preload=""></audio>          |
+| Unconditional diffusion      | <audio src="new/Unconditional diffusion/randwave_1.wav" controls="" preload=""></audio>          | <audio src="new/Unconditional diffusion/randwave_2.wav" controls="" preload=""></audio>          | -->
 
 What is the performance of English speech codes with English graphemes?
 
 |    English text              |English SAC using english speech codes                                                  |Transformer TTS|
-|He mentioned several {countries} | <audio src="new/Esg/He_mentioned_several_<countries>.wav" controls="" preload=""></audio>|<audio src=" " controls="" preload=""></audio>|
-|He mentioned several countries |<audio src="new/Esg/He_mentioned_several_countries.wav" controls="" preload=""></audio>|<audio src="new/transformer_Esg/He_mentioned_several_countries.wav" controls="" preload=""></audio>|
+|He mentioned several {countries} | <audio src="new/Esg/He_mentioned_several_<countries>.wav" controls="" preload=""></audio> | <audio src=" " controls="" preload=""></audio>|
+|He mentioned several countries |<audio src="new/Esg/He_mentioned_several_countries.wav" controls="" preload=""></audio> | <audio src="new/transformer_Esg/He_mentioned_several_countries.wav" controls="" preload=""></audio>|
 |The car is movable|<audio src="new/Esg/The_car_is_movable.wav" controls="" preload=""></audio>|<audio src="new/transformer_Esg/The_car_is_movable.wav" controls="" preload=""></audio>|
 |The car is {movable} | <audio src="new/Esg/The_car_is_<movable>.wav" controls="" preload=""></audio>|<audio src=" " controls="" preload=""></audio>|
 
